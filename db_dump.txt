@@ -1,0 +1,21 @@
+ROLES:
+{"id":"1","role_name":"Super Admin","role_key":"super_admin","is_system_role":"1"}
+{"id":"2","role_name":"Administrator","role_key":"admin","is_system_role":"0"}
+{"id":"3","role_name":"Student","role_key":"student","is_system_role":"0"}
+{"id":"4","role_name":"Suspended","role_key":"suspended","is_system_role":"1"}
+{"id":"7","role_name":"Teacher","role_key":"teacher","is_system_role":"0"}
+{"id":"11","role_name":"Course Instructor","role_key":"course_instructor","is_system_role":"0"}
+{"id":"12","role_name":"Assignment Manager","role_key":"assignment_manager","is_system_role":"0"}
+{"id":"13","role_name":"Exam Controller","role_key":"exam_controller","is_system_role":"0"}
+{"id":"14","role_name":"Senior Teacher","role_key":"senior_teacher","is_system_role":"0"}
+
+USERS:
+{"id":"1","name":"Root Admin","email":"admin@sys.com","role":"super_admin","identity_no":"12345-1234567-1","registration_no":"ADM-001","is_active":"1"}
+{"id":"2","name":"Demo Teacher","email":"teacher@demo.com","role":"teacher","identity_no":null,"registration_no":null,"is_active":"1"}
+{"id":"3","name":"Demo Student","email":"student@demo.com","role":"student","identity_no":null,"registration_no":null,"is_active":"1"}
+{"id":"4","name":"Super Administrator","email":"admin@universal.com","role":"super_admin","identity_no":null,"registration_no":null,"is_active":"1"}
+{"id":"5","name":"John Teacher","email":"teacher@universal.com","role":"teacher","identity_no":null,"registration_no":null,"is_active":"1"}
+{"id":"6","name":"Jane Student","email":"student@universal.com","role":"student","identity_no":null,"registration_no":null,"is_active":"1"}
+{"id":"7","name":"Admin User","email":"admin@example.com","role":"admin","identity_no":"123456","registration_no":null,"is_active":"1"}
+{"id":"9","name":"sir umair","email":"root@gmail.com","role":"teacher","identity_no":"3534578976532","registration_no":null,"is_active":"1"}
+{"id":"10","name":"laiba","email":"laiba@gmail.com","role":"student","identity_no":"3509876645287","registration_no":"8349","is_active":"1"}

@@ -1,0 +1,77 @@
+/* Role Grid Section Styling */
+.role-grid-section {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.role-grid-title {
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.role-card {
+    background: #fff;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    height: 100%;
+    overflow: hidden;
+}
+
+.role-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+}
+
+.role-card-header {
+    padding: 1.25rem;
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: #fff;
+    text-align: center;
+}
+
+.role-card-body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.role-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.role-description {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+    min-height: 3em;
+}
+
+.role-stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    border-top: 1px solid #eee;
+    margin-bottom: 1rem;
+}
+
+.role-user-count {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #007bff;
+}
+
+.role-manage-btn {
+    width: 100%;
+    font-weight: 600;
+    border-radius: 6px;
+}
