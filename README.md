@@ -99,3 +99,45 @@ To evolve this project into a full-fledged, enterprise-grade Educational CMS, co
 7. **Certificate Generation:** Automatically generate PDF certificates upon course completion.
 8. **Plagiarism Detection:** Integrate with APIs like Turnitin for automatic checking of student submissions.
 9. **Multi-language Support:** Add i18n support so the system can be used by non-English speakers.
+10. # Student Content Management System
+
+## Introduction
+This project is a web-based Student Content Management System developed for managing students, teachers, assignments, quizzes, attendance, and reports.
+
+## Features
+- Student Dashboard
+- Teacher Dashboard
+- Assignment Management
+- Quiz System
+- Attendance Tracking
+- Report Cards
+
+## Tech Stack
+- PHP / Laravel
+- MySQL
+- HTML, CSS, JavaScript
+- Bootstrap
+
+## Screenshots
+![Dashboard](images/dashboard.png)
+
+## How to Use
+1. Clone the repository
+2. Import the SQL file
+3. Run the project on localhost
+4. Login with default credentials
+
+## Default Login
+### Admin
+- Email: admin@gmail.com
+- Password: admin123
+
+## Project Structure
+```bash
+/project-folder
+ ├── app
+ ├── database
+ ├── public
+ ├── resources
+ ├── routes
+ └── README.md
