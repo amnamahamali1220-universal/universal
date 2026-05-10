@@ -119,7 +119,7 @@ This project is a web-based Student Content Management System developed for mana
 - Bootstrap
 
 ## Screenshots
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## How to Use
 1. Clone the repository
