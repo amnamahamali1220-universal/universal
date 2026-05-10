@@ -141,3 +141,7 @@ This project is a web-based Student Content Management System developed for mana
  ├── resources
  ├── routes
  └── README.md
+## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
